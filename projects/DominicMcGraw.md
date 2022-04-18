@@ -18,19 +18,13 @@ This page is written in Markdown, there is a handy guide on how to use this at t
 <hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+The University of Dundee has over 3000 members of staff and over 15000 students. It is made up of many different departments, services, and schools. One of the services provided is the Security Centre which is staffed 24/7 by the university campus security team. A member of the security team can be reached at time using the universities own internal emergency number.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+Amongst the 3000 plus members of staff at the university there are many trained in first aid. At this point in time when a member of the security team receives a call which will require the assistance of a trained first aiders there is no way to contact the closest one directly.
+
+There are mobile applications out there that allow first aiders to sign up and offer their assistance. When an emergency arises, they can be localised and alerted in order to attend and provide basic life support until the arrival of the emergency services.
+
+This project delivers a mobile application that minimises the time between an incident being noticed and a first aider arriving to perform basic life support. When the university campus security team are informed of an emergency, the app will allow them to send out an alert. This alert will notify the closest first aid trained member of staff to that emergency.
+
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
-
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
-
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
